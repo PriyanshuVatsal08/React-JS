@@ -1,7 +1,6 @@
 # React-JS
 All about Reactjs theory ans project
 
-
 # Create a project
 npm create vite@latest my-react-app
 
