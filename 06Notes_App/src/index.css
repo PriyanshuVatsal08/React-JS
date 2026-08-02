@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body{
+    height: 100vh;
+    background-color: #E3E8F8;
+}
+
+button{
+    cursor: pointer;
+}
